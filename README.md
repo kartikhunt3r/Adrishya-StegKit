@@ -1,5 +1,5 @@
 # Adrishya-StegKit
-A Stegbography Toolkit for CTF Players and Organizers. All in one Stegnography toolkit made in Python.
+A Stegnography Toolkit for CTF Players and Organizers. All in one Stegnography toolkit made in Python.
 
 Any suggestions or ideas for this tool are welcome - just dm me on LinkedIn [kartikhunt3r](https://www.linkedin.com/in/kartikhunt3r)
 
