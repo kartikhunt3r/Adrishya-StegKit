@@ -17,7 +17,7 @@ Any suggestions or ideas for this tool are welcome - just dm me on LinkedIn [kar
 
 
 
-# Feachers
+# Features
 
 ## Img Steg:
 
