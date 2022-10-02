@@ -1,7 +1,7 @@
 # Adrishya-StegKit
 A Stegbography Toolkit for CTF Players and Organizers. All in one Stegnography toolkit made in Python.
 
-Any suggestions or ideas for this tool are welcome - just dm me on LinkedIn[kartikhunt3r](https://www.linkedin.com/in/kartikhunt3r)
+Any suggestions or ideas for this tool are welcome - just dm me on LinkedIn [kartikhunt3r](https://www.linkedin.com/in/kartikhunt3r)
 
 ![Logo](https://github.com/kartikhunt3r/MacChanger/blob/main/logo.gif)
 
@@ -25,7 +25,7 @@ Any suggestions or ideas for this tool are welcome - just dm me on LinkedIn[kart
 
 - hide secret data inside an image.
 
-- image looks and works normally after hidinge the data.
+- image looks and works normally after hiding the data.
 
 - extract data from hidden image.
 
@@ -104,9 +104,37 @@ Any suggestions or ideas for this tool are welcome - just dm me on LinkedIn[kart
 
 - view Hex Code of any file. with any extention.
 
-- 
+- supports all HEX Encodings:
+
+     -  ascii
+     -  cp037
+     -  cp850
+     -  cp1140
+     -  cp1252
+     -  Latin1
+     -  ISO8859_15
+     -  Mac_Roman
+     -  UTF-8
+     -  UTF-8-sig
+     -  UTF-16
+     -  UTF-32
+
+- you can set offset values higher or lower
+
+- easy to use
 
 
+## Hash Identifier:
+
+![image](https://github.com/kartikhunt3r/Adrishya-StegKit/blob/main/HashIdentifier.png)
+
+- Identify the different types of hashes used to encrypt data and especially passwords.
+
+- supports the identification of over 220 unique hash types using regular expressions.
+
+- also capable of including the corresponding hashcat mode and JohnTheRipper format in its output.
+
+- easy to use
 
 
 
