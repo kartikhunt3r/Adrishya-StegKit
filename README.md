@@ -139,6 +139,52 @@ Any suggestions or ideas for this tool are welcome - just dm me on LinkedIn [kar
 
 
 
+## 📹 Demo Video :
+
+
+[![Demo](https://img.youtube.com/vi/h4VD2jIsMPs/0.jpg)](https://youtu.be/h4VD2jIsMPs)
+
+
+## Installation:
+
+
+
+
+### Linux(Recommanded):
+
+1: Download the file from Release section: https://github.com/kartikhunt3r/Adrishya-StegKit/releases/download/v1.0/Adrishya-StegKit
+
+2: 
+```bash
+chmod +x Adrishya-StegKit
+```
+
+3: run the Adrishya-StegKit file.(by double click or ./Adrishya-StegKit)
+
+
+
+### Windows(Not Recommanded):
+
+- this version is still under development
+
+- sstv and img wav tool's decoding funcions are not working.
+
+1: Download the file from Release section: https://github.com/kartikhunt3r/Adrishya-StegKit/releases/download/v1.0.0/Adrishya-Stegkit.exe
+
+2: Run the EXE file
+
+3: if it pop up some warnings, just click on ok. after 7-8 clicks, tool will open.
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kartiksavaliya.tech/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/kartikhunt3r)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kartikhunt3r)
+
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqUKMBA2UPqKOYbSa9FnC-Q)
 
 
 
