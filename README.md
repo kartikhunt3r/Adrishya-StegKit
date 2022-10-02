@@ -17,6 +17,15 @@ Any suggestions or ideas for this tool are welcome - just dm me on LinkedIn [kar
 
 
 
+
+## 📹 Demo Video :
+
+
+[![Demo](https://img.youtube.com/vi/2Lg8MtTbj-E/0.jpg)](https://youtu.be/2Lg8MtTbj-E)
+
+
+
+
 # Features
 
 ## Img Steg:
@@ -136,13 +145,6 @@ Any suggestions or ideas for this tool are welcome - just dm me on LinkedIn [kar
 
 - easy to use
 
-
-
-
-## 📹 Demo Video :
-
-
-[![Demo](https://img.youtube.com/vi/h4VD2jIsMPs/0.jpg)](https://youtu.be/h4VD2jIsMPs)
 
 
 ## Installation:
